@@ -10,5 +10,5 @@ The basic approach for the project is to classify the various sleep stages using
 The approaches include using a Conv-LSTM Network,CNN and RNN.
 Further using the EEG signals to construct spectrograms and then applying image classification using neural networks is also tried out
 
-#Note 
+# Note 
 This this project is part of of the Final Year Project for Bachelor's of Engineering course in Electronics and Communication Engineering specialization for Birla Institute of Technology,Mesra.
